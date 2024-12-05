@@ -2,7 +2,7 @@ package firstLesson;
 
 import java.util.Scanner;
 
-public class helloWorld {
+public class Menu {
 	public static void main(String[] args) {
 		System.out.println(">>Lựa Chọn Tính Năng<<");
 		System.out.println("++__________________++");
